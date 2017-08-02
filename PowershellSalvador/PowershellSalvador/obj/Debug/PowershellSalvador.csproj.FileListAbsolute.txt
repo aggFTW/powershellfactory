@@ -1,0 +1,7 @@
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\bin\Debug\PowershellSalvador.exe.config
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\obj\Debug\PowershellSalvador.csprojResolveAssemblyReference.cache
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\bin\Debug\PowershellSalvador.exe
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\bin\Debug\PowershellSalvador.pdb
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\bin\Debug\System.Management.Automation.dll
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\obj\Debug\PowershellSalvador.exe
+C:\Users\agu\Desktop\PowershellSalvador\PowershellSalvador\obj\Debug\PowershellSalvador.pdb
